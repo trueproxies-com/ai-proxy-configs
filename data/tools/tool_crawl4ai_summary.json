@@ -1,0 +1,23 @@
+{
+  "tool": "crawl4ai",
+  "version": "0.9.4",
+  "n": 20,
+  "date": "2026-10-01",
+  "basic": {
+    "ok": 15,
+    "n": 20,
+    "median_ms": 3591,
+    "errors": [
+      "Blocked by anti-bot protection: HTTP 503 with HTML content (121 bytes)",
+      "Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on naviga"
+    ]
+  },
+  "sticky": {
+    "ok": 14,
+    "n": 20,
+    "median_ms": 3353,
+    "errors": [
+      "Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):\nError: Failed on naviga"
+    ]
+  }
+}

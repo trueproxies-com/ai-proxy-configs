@@ -1,0 +1,151 @@
+url,type,config,status,ok,partial,bytes,tokens,ms,peak_conns,error
+https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia,news,A,200,True,False,53806,990,1319,,
+https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761,news,A,200,True,False,53808,1729,1531,,
+https://www.abc.net.au/news/2026-10-01/how-flydubai-flight-fz1073-plunge-unfolded/107215048,news,A,200,True,False,84084,1018,1140,,
+https://www.euronews.com/2026/10/01/japans-sanae-takaichi-announces-new-tightened-measures-for-foreigners-seeking-permanent-re,news,A,200,True,False,426198,609,4537,,
+https://www.cnbc.com/2023/05/11/market-strategist-survey-forecast.html,news,A,200,True,False,116276,116,3469,,
+https://docs.python.org/3/tutorial/introduction.html,docs,A,503,False,False,108,14,1809,,
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction,docs,A,200,True,False,26488,1823,741,,
+https://docs.djangoproject.com/en/5.1/intro/tutorial01/,docs,A,200,True,False,11603,2139,1824,,
+https://nodejs.org/api/http.html,docs,A,200,True,False,51879,25577,4278,,
+https://kubernetes.io/docs/concepts/overview/,docs,A,200,True,False,48243,1814,1564,,
+https://docs.docker.com/get-started/,docs,A,200,True,False,58055,116,1418,,
+https://go.dev/doc/effective_go,docs,A,200,True,False,51513,22793,4062,,
+https://doc.rust-lang.org/book/ch01-01-installation.html,docs,A,200,True,False,8807,1189,835,,
+https://www.postgresql.org/docs/current/tutorial-start.html,docs,A,200,True,False,3314,40,4696,,
+https://redis.io/docs/latest/develop/get-started/,docs,A,200,True,False,26688,124,687,,
+https://www.ikea.com/us/en/p/billy-bookcase-white-20522046/,product,A,200,True,False,113307,1578,5388,,
+https://store.steampowered.com/app/3393110/AION_2/,product,A,200,True,False,9128,66,8261,,
+https://www.newegg.com/sapphire-tech-pulse-11350-03-20g-radeon-rx-9060-xt-16gb-graphics-card-double-fans/p/N82E16814202457,product,A,200,True,False,55500,395,897,,
+https://www.apple.com/shop/buy-iphone/iphone-duo,product,A,200,True,False,124782,1542,705,,
+https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/,product,A,200,True,False,91087,587,1328,,
+https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,product,A,200,True,False,2391,241,1732,,
+https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/,blog,A,200,True,False,24008,2728,1009,,
+https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/,blog,A,200,True,False,15514,1494,951,,
+https://blog.google/innovation-and-ai/models-and-research/google-deepmind/,blog,A,200,True,False,75260,68,5382,,
+https://www.joelonsoftware.com/2022/12/19/progress-on-the-block-protocol/,blog,A,200,True,False,19498,1745,3920,,
+https://blog.jetbrains.com/air/2026/09/introducing-air-teams/,blog,A,200,True,False,141122,2041,2109,,
+https://forum.arduino.cc/t/compiler-handling-of-an-expression-with-xor-functions/1461444,forum,A,200,True,False,60267,1172,1489,,
+https://meta.discourse.org/t/new-to-discourse-start-here/1,forum,A,200,True,False,78984,311,2963,,
+https://forum.xda-developers.com/t/i-released-a-temporary-kernelsu-root-launcher-for-the-korean-galaxy-s26-ultra-sm-s948n-azg3-firmware.4798629/post-90758970,forum,A,403,False,False,15432,27,3082,,
+https://www.nbcnews.com/select/shopping/early-october-prime-day-deals-2026-rcna597786,news,A,200,True,False,105565,2863,2327,,
+https://www.latimes.com/lifestyle/image/story/2022-09-13/trend-analysis,news,A,200,True,False,117510,3088,4361,,
+https://english.elpais.com/usa/2026-09-30/democrats-regain-ground-with-latino-voters-ahead-of-the-midterms.html,news,A,200,True,False,70317,1223,1474,,
+https://www.spiegel.de/international/world/putins-war-of-aggression-a-journey-along-the-dnipro-in-wartime-ukraine-a-b943efc8-a374-4f78-a8e9-0d55e750a8dc,news,A,200,True,False,118282,461,597,,
+https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/,news,A,405,False,False,2103,41,4789,,
+https://www.allbirds.com/products/mens-runner-nz-slip-on-mushroom,product,A,200,True,False,104524,446,2011,,
+https://www.gymshark.com/products/gymshark-power-t-shirt-ss-tops-black-aw25-4,product,A,200,True,False,166154,463,4085,,
+https://www.keychron.com/products/keychron-k8-he-wireless-magnetic-switch-custom-keyboard-all-wood-special-edition,product,A,200,True,False,163531,1792,2847,,
+https://www.adafruit.com/product/6525,product,A,200,True,False,19879,839,937,,
+https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/,blog,A,200,True,False,5750,1346,3975,,
+https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html,blog,A,200,True,False,22522,939,701,,
+https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/,blog,A,200,True,False,20939,2574,2716,,
+https://simonwillison.net/2026/Sep/30/he-built-this-city/,blog,A,200,True,False,4772,163,3756,,
+https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/,blog,A,200,True,False,7495,2141,892,,
+https://forum.golangbridge.org/t/an-unofficial-discourse-user-reference-guide/9738,forum,A,200,True,False,25803,280,2205,,
+https://discourse.julialang.org/t/policy-feedback-discussion-splitting/57362,forum,A,200,True,False,41828,677,1913,,
+https://forum.obsidian.md/t/outline-mindmap-the-cleanest-mind-mapping-plugin/117888,forum,A,200,True,False,35641,612,2321,,
+https://community.openai.com/t/devday-2026-announcements-and-developer-resources/1402006,forum,A,200,True,False,45520,1108,4462,,
+https://forum.proxmox.com/threads/proxmox-announces-global-24-7-enterprise-support-and-launches-proxmox-north-america-inc.186140/post-868169,forum,A,200,True,False,17624,372,5608,,
+https://forum.manjaro.org/t/strict-forum-rules-and-guidelines/13680,forum,A,200,True,False,64864,970,2485,,
+https://discourse.ubuntu.com/t/upgrades-from-ubuntu-24-04-lts-to-ubuntu-26-04-1-lts-now-enabled/88502,forum,A,200,True,False,566728,359,2168,,
+https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia,news,B,200,True,False,519610,990,8627,,
+https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761,news,B,200,True,False,676681,1725,7086,,
+https://www.abc.net.au/news/2026-10-01/how-flydubai-flight-fz1073-plunge-unfolded/107215048,news,B,200,True,False,4550733,1008,18924,,
+https://www.euronews.com/2026/10/01/japans-sanae-takaichi-announces-new-tightened-measures-for-foreigners-seeking-permanent-re,news,B,200,True,False,1530451,609,4573,,
+https://www.cnbc.com/2023/05/11/market-strategist-survey-forecast.html,news,B,200,True,False,1380105,116,16624,,
+https://docs.python.org/3/tutorial/introduction.html,docs,B,200,True,False,16415,4416,8397,,
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction,docs,B,200,True,False,180659,1766,2866,,
+https://docs.djangoproject.com/en/5.1/intro/tutorial01/,docs,B,200,True,False,57122,2139,4298,,
+https://nodejs.org/api/http.html,docs,B,200,True,False,59996,25577,20107,,
+https://kubernetes.io/docs/concepts/overview/,docs,B,200,True,False,377422,1814,23548,,
+https://docs.docker.com/get-started/,docs,B,200,True,True,1285446,116,30266,,Page.goto: Timeout 30000ms exceeded.
+https://go.dev/doc/effective_go,docs,B,200,True,False,504334,22852,13432,,
+https://doc.rust-lang.org/book/ch01-01-installation.html,docs,B,0,False,True,0,0,30299,,Page.goto: Timeout 30000ms exceeded.
+https://www.postgresql.org/docs/current/tutorial-start.html,docs,B,200,True,False,377790,40,23815,,
+https://redis.io/docs/latest/develop/get-started/,docs,B,403,False,False,86266,61,2229,,
+https://www.ikea.com/us/en/p/billy-bookcase-white-20522046/,product,B,0,False,True,0,0,30292,,Page.goto: Timeout 30000ms exceeded.
+https://store.steampowered.com/app/3393110/AION_2/,product,B,200,True,False,1229939,66,26353,,
+https://www.newegg.com/sapphire-tech-pulse-11350-03-20g-radeon-rx-9060-xt-16gb-graphics-card-double-fans/p/N82E16814202457,product,B,200,True,True,2513660,431,31090,,Page.goto: Timeout 30000ms exceeded.
+https://www.apple.com/shop/buy-iphone/iphone-duo,product,B,200,True,True,663434,1435,30292,,Page.goto: Timeout 30000ms exceeded.
+https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/,product,B,200,True,True,250293,587,30307,,Page.goto: Timeout 30000ms exceeded.
+https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,product,B,200,True,False,108971,241,9097,,
+https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/,blog,B,0,False,True,0,0,30294,,Page.goto: Timeout 30000ms exceeded.
+https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/,blog,B,200,True,False,537290,1494,18673,,
+https://blog.google/innovation-and-ai/models-and-research/google-deepmind/,blog,B,200,True,False,938371,183,5519,,
+https://www.joelonsoftware.com/2022/12/19/progress-on-the-block-protocol/,blog,B,403,False,False,7196,12,1548,,
+https://blog.jetbrains.com/air/2026/09/introducing-air-teams/,blog,B,200,True,False,3564798,2041,15258,,
+https://forum.arduino.cc/t/compiler-handling-of-an-expression-with-xor-functions/1461444,forum,B,200,True,False,2606085,170,19751,,
+https://meta.discourse.org/t/new-to-discourse-start-here/1,forum,B,200,True,False,2589616,377,10496,,
+https://forum.xda-developers.com/t/i-released-a-temporary-kernelsu-root-launcher-for-the-korean-galaxy-s26-ultra-sm-s948n-azg3-firmware.4798629/post-90758970,forum,B,200,True,False,1049016,1025,16605,,
+https://www.nbcnews.com/select/shopping/early-october-prime-day-deals-2026-rcna597786,news,B,301,False,True,1675257,2863,30500,,Page.goto: Timeout 30000ms exceeded.
+https://www.latimes.com/lifestyle/image/story/2022-09-13/trend-analysis,news,B,200,True,False,603500,3088,13269,,
+https://english.elpais.com/usa/2026-09-30/democrats-regain-ground-with-latino-voters-ahead-of-the-midterms.html,news,B,200,True,False,1639462,1223,11094,,
+https://www.spiegel.de/international/world/putins-war-of-aggression-a-journey-along-the-dnipro-in-wartime-ukraine-a-b943efc8-a374-4f78-a8e9-0d55e750a8dc,news,B,200,True,False,866660,461,8527,,
+https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/,news,B,0,False,True,0,0,30322,,Page.goto: Timeout 30000ms exceeded.
+https://www.allbirds.com/products/mens-runner-nz-slip-on-mushroom,product,B,200,True,True,2728056,687,30544,,Page.goto: Timeout 30000ms exceeded.
+https://www.gymshark.com/products/gymshark-power-t-shirt-ss-tops-black-aw25-4,product,B,200,True,True,564576,463,30628,,Page.goto: Timeout 30000ms exceeded.
+https://www.keychron.com/products/keychron-k8-he-wireless-magnetic-switch-custom-keyboard-all-wood-special-edition,product,B,200,True,True,472973,323,31117,,Page.goto: Timeout 30000ms exceeded.
+https://www.adafruit.com/product/6525,product,B,200,True,False,914219,839,8445,,
+https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/,blog,B,200,True,False,134330,1346,3353,,
+https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html,blog,B,403,False,False,7200,12,1515,,
+https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/,blog,B,200,True,False,111907,2574,7246,,
+https://simonwillison.net/2026/Sep/30/he-built-this-city/,blog,B,200,True,False,30075,163,3402,,
+https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/,blog,B,200,True,True,69379,2141,30218,,Page.goto: Timeout 30000ms exceeded.
+https://forum.golangbridge.org/t/an-unofficial-discourse-user-reference-guide/9738,forum,B,200,True,False,1640267,194,21994,,
+https://discourse.julialang.org/t/policy-feedback-discussion-splitting/57362,forum,B,200,True,False,2507596,677,15472,,
+https://forum.obsidian.md/t/outline-mindmap-the-cleanest-mind-mapping-plugin/117888,forum,B,200,True,False,1687701,612,6875,,
+https://community.openai.com/t/devday-2026-announcements-and-developer-resources/1402006,forum,B,200,True,False,2328864,733,6483,,
+https://forum.proxmox.com/threads/proxmox-announces-global-24-7-enterprise-support-and-launches-proxmox-north-america-inc.186140/post-868169,forum,B,200,True,False,542748,372,5699,,
+https://forum.manjaro.org/t/strict-forum-rules-and-guidelines/13680,forum,B,0,False,True,0,0,30357,,Page.goto: Timeout 30000ms exceeded.
+https://discourse.ubuntu.com/t/upgrades-from-ubuntu-24-04-lts-to-ubuntu-26-04-1-lts-now-enabled/88502,forum,B,200,True,True,2537845,359,30284,,Page.goto: Timeout 30000ms exceeded.
+https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia,news,C,200,True,False,567214,990,19126,,
+https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761,news,C,200,True,True,993984,1725,30232,,Page.goto: Timeout 30000ms exceeded.
+https://www.abc.net.au/news/2026-10-01/how-flydubai-flight-fz1073-plunge-unfolded/107215048,news,C,200,True,True,4647672,1014,30248,,Page.goto: Timeout 30000ms exceeded.
+https://www.euronews.com/2026/10/01/japans-sanae-takaichi-announces-new-tightened-measures-for-foreigners-seeking-permanent-re,news,C,200,True,False,935055,609,24337,,
+https://www.cnbc.com/2023/05/11/market-strategist-survey-forecast.html,news,C,200,True,False,1788937,1873,15551,,
+https://docs.python.org/3/tutorial/introduction.html,docs,C,503,False,False,288,14,1714,,
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction,docs,C,200,True,False,646077,1766,22602,,
+https://docs.djangoproject.com/en/5.1/intro/tutorial01/,docs,C,200,True,False,602576,2139,3419,,
+https://nodejs.org/api/http.html,docs,C,200,True,False,104756,25577,3848,,
+https://kubernetes.io/docs/concepts/overview/,docs,C,200,True,False,782449,1814,16164,,
+https://docs.docker.com/get-started/,docs,C,200,False,True,288886,0,30306,,Page.goto: Timeout 30000ms exceeded.
+https://go.dev/doc/effective_go,docs,C,0,False,False,0,0,90081,,watchdog: killed after 90 s
+https://doc.rust-lang.org/book/ch01-01-installation.html,docs,C,200,True,False,351753,1189,2041,,
+https://www.postgresql.org/docs/current/tutorial-start.html,docs,C,0,False,True,0,0,30272,,Page.goto: Timeout 30000ms exceeded.
+https://redis.io/docs/latest/develop/get-started/,docs,C,200,True,True,3362689,124,30240,,Page.goto: Timeout 30000ms exceeded.
+https://www.ikea.com/us/en/p/billy-bookcase-white-20522046/,product,C,200,True,False,2419337,1629,17919,,
+https://store.steampowered.com/app/3393110/AION_2/,product,C,200,True,False,2605914,66,6602,,
+https://www.newegg.com/sapphire-tech-pulse-11350-03-20g-radeon-rx-9060-xt-16gb-graphics-card-double-fans/p/N82E16814202457,product,C,200,True,False,1500518,398,19565,,
+https://www.apple.com/shop/buy-iphone/iphone-duo,product,C,0,False,True,0,0,30307,,Page.goto: Timeout 30000ms exceeded.
+https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/,product,C,200,True,True,2695414,1987,30818,,Page.goto: Timeout 30000ms exceeded.
+https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html,product,C,200,True,False,184102,241,10471,,
+https://engineering.fb.com/2026/09/23/security/private-processing-meta-ai-glasses/,blog,C,200,True,True,353089,2728,30208,,Page.goto: Timeout 30000ms exceeded.
+https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/,blog,C,200,True,True,933256,1494,30206,,Page.goto: Timeout 30000ms exceeded.
+https://blog.google/innovation-and-ai/models-and-research/google-deepmind/,blog,C,0,False,False,0,0,90116,,watchdog: killed after 90 s
+https://www.joelonsoftware.com/2022/12/19/progress-on-the-block-protocol/,blog,C,403,False,False,7198,12,1050,,
+https://blog.jetbrains.com/air/2026/09/introducing-air-teams/,blog,C,200,True,True,3634836,2041,30221,,Page.goto: Timeout 30000ms exceeded.
+https://forum.arduino.cc/t/compiler-handling-of-an-expression-with-xor-functions/1461444,forum,C,200,True,False,2868575,170,16218,,
+https://meta.discourse.org/t/new-to-discourse-start-here/1,forum,C,0,False,True,0,0,30618,,Page.goto: Timeout 30000ms exceeded.
+https://forum.xda-developers.com/t/i-released-a-temporary-kernelsu-root-launcher-for-the-korean-galaxy-s26-ultra-sm-s948n-azg3-firmware.4798629/post-90758970,forum,C,200,True,False,1757485,1095,19381,,
+https://www.nbcnews.com/select/shopping/early-october-prime-day-deals-2026-rcna597786,news,C,301,False,True,2944533,2863,30457,,Page.goto: Timeout 30000ms exceeded.
+https://www.latimes.com/lifestyle/image/story/2022-09-13/trend-analysis,news,C,200,True,True,897660,3088,30396,,Page.goto: Timeout 30000ms exceeded.
+https://english.elpais.com/usa/2026-09-30/democrats-regain-ground-with-latino-voters-ahead-of-the-midterms.html,news,C,0,False,True,0,0,30308,,Page.goto: Timeout 30000ms exceeded.
+https://www.spiegel.de/international/world/putins-war-of-aggression-a-journey-along-the-dnipro-in-wartime-ukraine-a-b943efc8-a374-4f78-a8e9-0d55e750a8dc,news,C,200,True,False,1250367,461,18298,,
+https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/,news,C,200,True,True,2577516,3041,30455,,Page.goto: Timeout 30000ms exceeded.
+https://www.allbirds.com/products/mens-runner-nz-slip-on-mushroom,product,C,200,True,True,4039867,687,30529,,Page.goto: Timeout 30000ms exceeded.
+https://www.gymshark.com/products/gymshark-power-t-shirt-ss-tops-black-aw25-4,product,C,200,True,False,4551712,403,32818,,
+https://www.keychron.com/products/keychron-k8-he-wireless-magnetic-switch-custom-keyboard-all-wood-special-edition,product,C,200,True,True,7095234,1608,30713,,Page.goto: Timeout 30000ms exceeded.
+https://www.adafruit.com/product/6525,product,C,200,True,True,3008673,839,30222,,Page.goto: Timeout 30000ms exceeded.
+https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/,blog,C,200,True,True,89664,1346,30219,,Page.goto: Timeout 30000ms exceeded.
+https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html,blog,C,403,False,False,7198,12,1950,,
+https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/,blog,C,200,True,False,2066802,2574,26082,,
+https://simonwillison.net/2026/Sep/30/he-built-this-city/,blog,C,200,True,False,445910,163,9759,,
+https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/,blog,C,200,True,False,147037,2141,3892,,
+https://forum.golangbridge.org/t/an-unofficial-discourse-user-reference-guide/9738,forum,C,200,True,False,1653947,194,10502,,
+https://discourse.julialang.org/t/policy-feedback-discussion-splitting/57362,forum,C,200,True,False,2522302,677,10622,,
+https://forum.obsidian.md/t/outline-mindmap-the-cleanest-mind-mapping-plugin/117888,forum,C,200,True,False,1690873,612,11116,,
+https://community.openai.com/t/devday-2026-announcements-and-developer-resources/1402006,forum,C,200,True,True,3328121,733,30267,,Page.goto: Timeout 30000ms exceeded.
+https://forum.proxmox.com/threads/proxmox-announces-global-24-7-enterprise-support-and-launches-proxmox-north-america-inc.186140/post-868169,forum,C,200,True,False,635403,372,14547,,
+https://forum.manjaro.org/t/strict-forum-rules-and-guidelines/13680,forum,C,200,True,False,1645897,970,6104,,
+https://discourse.ubuntu.com/t/upgrades-from-ubuntu-24-04-lts-to-ubuntu-26-04-1-lts-now-enabled/88502,forum,C,200,True,False,4018503,359,19749,,

@@ -1,0 +1,51 @@
+mode,url,type,ok,status,html_len,markdown_len,ms,error
+basic,https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia,news,True,200,329639,18608,1849,
+basic,https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761,news,False,0,0,0,30064,"Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on naviga"
+basic,https://www.abc.net.au/news/2026-10-01/how-flydubai-flight-fz1073-plunge-unfolded/107215048,news,True,200,420264,25787,5986,
+basic,https://www.euronews.com/2026/10/01/japans-sanae-takaichi-announces-new-tightened-measures-for-foreigners-seeking-permanent-re,news,True,200,432154,61013,3130,
+basic,https://www.cnbc.com/2023/05/11/market-strategist-survey-forecast.html,news,True,301,843327,12708,3458,
+basic,https://docs.python.org/3/tutorial/introduction.html,docs,False,503,121,74,4904,Blocked by anti-bot protection: HTTP 503 with HTML content (121 bytes)
+basic,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction,docs,True,200,125279,80127,1852,
+basic,https://docs.djangoproject.com/en/5.1/intro/tutorial01/,docs,True,200,55553,22837,2013,
+basic,https://nodejs.org/api/http.html,docs,True,200,672293,226368,5773,
+basic,https://kubernetes.io/docs/concepts/overview/,docs,True,200,537216,117990,3830,
+basic,https://docs.docker.com/get-started/,docs,True,200,259693,6623,2827,
+basic,https://go.dev/doc/effective_go,docs,False,0,0,0,30061,"Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on naviga"
+basic,https://doc.rust-lang.org/book/ch01-01-installation.html,docs,True,200,58837,20717,1893,
+basic,https://www.postgresql.org/docs/current/tutorial-start.html,docs,False,0,0,0,30065,"Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on naviga"
+basic,https://redis.io/docs/latest/develop/get-started/,docs,True,200,112413,7424,5854,
+basic,https://www.ikea.com/us/en/p/billy-bookcase-white-20522046/,product,True,200,1141610,27585,7244,
+basic,https://store.steampowered.com/app/3393110/AION_2/,product,False,0,0,0,30049,"Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on naviga"
+basic,https://www.newegg.com/sapphire-tech-pulse-11350-03-20g-radeon-rx-9060-xt-16gb-graphics-card-double-fans/p/N82E16814202457,product,True,200,813737,191625,12092,
+basic,https://www.apple.com/shop/buy-iphone/iphone-duo,product,True,200,1127185,108852,3591,
+basic,https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/,product,True,200,1923516,13852,6233,
+sticky,https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia,news,True,200,327208,18608,5119,
+sticky,https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761,news,True,200,245085,24271,2116,
+sticky,https://www.abc.net.au/news/2026-10-01/how-flydubai-flight-fz1073-plunge-unfolded/107215048,news,True,200,420683,25959,3530,
+sticky,https://www.euronews.com/2026/10/01/japans-sanae-takaichi-announces-new-tightened-measures-for-foreigners-seeking-permanent-re,news,True,200,417006,61013,3276,
+sticky,https://www.cnbc.com/2023/05/11/market-strategist-survey-forecast.html,news,False,0,0,0,30068,"Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on naviga"
+sticky,https://docs.python.org/3/tutorial/introduction.html,docs,False,0,0,0,30066,"Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on naviga"
+sticky,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction,docs,True,200,125279,80127,22678,
+sticky,https://docs.djangoproject.com/en/5.1/intro/tutorial01/,docs,True,200,55553,22837,2333,
+sticky,https://nodejs.org/api/http.html,docs,True,200,672293,226368,3261,
+sticky,https://kubernetes.io/docs/concepts/overview/,docs,True,200,537216,117990,2413,
+sticky,https://docs.docker.com/get-started/,docs,False,0,0,0,30062,"Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on naviga"
+sticky,https://go.dev/doc/effective_go,docs,False,0,0,0,30063,"Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on naviga"
+sticky,https://doc.rust-lang.org/book/ch01-01-installation.html,docs,False,0,0,0,30075,"Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on naviga"
+sticky,https://www.postgresql.org/docs/current/tutorial-start.html,docs,True,200,14992,5885,2203,
+sticky,https://redis.io/docs/latest/develop/get-started/,docs,True,200,113250,7424,24057,
+sticky,https://www.ikea.com/us/en/p/billy-bookcase-white-20522046/,product,True,200,1188499,28120,23357,
+sticky,https://store.steampowered.com/app/3393110/AION_2/,product,True,302,54612,8098,4588,
+sticky,https://www.newegg.com/sapphire-tech-pulse-11350-03-20g-radeon-rx-9060-xt-16gb-graphics-card-double-fans/p/N82E16814202457,product,True,200,342625,24906,3430,
+sticky,https://www.apple.com/shop/buy-iphone/iphone-duo,product,True,200,1036188,93151,3211,
+sticky,https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/,product,False,0,0,0,30069,"Unexpected error in _crawl_web at line 778 in _crawl_web (../usr/local/lib/python3.12/dist-packages/crawl4ai/async_crawler_strategy.py):
+Error: Failed on naviga"

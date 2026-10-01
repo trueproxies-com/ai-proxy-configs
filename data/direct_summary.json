@@ -1,0 +1,59 @@
+{
+  "test_date": "2026-10-01",
+  "versions": {
+    "httpx": "0.28.1",
+    "playwright": "1.63.0",
+    "trafilatura": "2.2.0",
+    "tiktoken": "0.14.0",
+    "mode": "direct",
+    "chromium": "153.0.8010.12"
+  },
+  "configs": {
+    "A": {
+      "n": 50,
+      "ok": 49,
+      "success_rate": 0.98,
+      "median_bytes": 48074,
+      "p75_bytes": 82387,
+      "median_mb": 0.048,
+      "median_tokens": 990,
+      "median_ms": 981,
+      "peak_conns_max": null,
+      "peak_conns_median": null,
+      "errors": []
+    },
+    "B": {
+      "n": 50,
+      "ok": 46,
+      "success_rate": 0.92,
+      "median_bytes": 1113415,
+      "p75_bytes": 2587210,
+      "median_mb": 1.113,
+      "median_tokens": 999,
+      "median_ms": 6144,
+      "peak_conns_max": null,
+      "peak_conns_median": null,
+      "errors": [
+        "TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://arstechnica.com/space/2026/09/nasa-has-a-drago",
+        "TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gymshark.com/products/gymshark-power-t-shi"
+      ]
+    },
+    "C": {
+      "n": 50,
+      "ok": 45,
+      "success_rate": 0.9,
+      "median_bytes": 1943232,
+      "p75_bytes": 3578652,
+      "median_mb": 1.943,
+      "median_tokens": 990,
+      "median_ms": 5115,
+      "peak_conns_max": null,
+      "peak_conns_median": null,
+      "errors": [
+        "TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://arstechnica.com/space/2026/09/nasa-has-a-drago",
+        "TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.gymshark.com/products/gymshark-power-t-shi",
+        "TimeoutError: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.ikea.com/us/en/p/billy-bookcase-white-2052"
+      ]
+    }
+  }
+}

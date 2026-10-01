@@ -1,0 +1,64 @@
+{
+  "test_date": "2026-10-01",
+  "versions": {
+    "httpx": "0.28.1",
+    "playwright": "1.63.0",
+    "trafilatura": "2.2.0",
+    "tiktoken": "0.14.0",
+    "mode": "proxy",
+    "watchdog_s": 90,
+    "chromium": "153.0.8010.12"
+  },
+  "configs": {
+    "A": {
+      "n": 50,
+      "ok": 47,
+      "complete": 47,
+      "partial": 0,
+      "success_rate": 0.94,
+      "median_bytes": 51879,
+      "p75_bytes": 91087,
+      "median_mb": 0.052,
+      "median_tokens": 990,
+      "median_ms": 2109,
+      "peak_conns_max": null,
+      "peak_conns_median": null,
+      "errors": []
+    },
+    "B": {
+      "n": 50,
+      "ok": 41,
+      "complete": 32,
+      "partial": 9,
+      "success_rate": 0.82,
+      "median_bytes": 676681,
+      "p75_bytes": 1640267,
+      "median_mb": 0.677,
+      "median_tokens": 687,
+      "median_ms": 15258,
+      "peak_conns_max": null,
+      "peak_conns_median": null,
+      "errors": [
+        "Page.goto: Timeout 30000ms exceeded."
+      ]
+    },
+    "C": {
+      "n": 50,
+      "ok": 39,
+      "complete": 25,
+      "partial": 14,
+      "success_rate": 0.78,
+      "median_bytes": 1653947,
+      "p75_bytes": 2695414,
+      "median_mb": 1.654,
+      "median_tokens": 1014,
+      "median_ms": 19565,
+      "peak_conns_max": null,
+      "peak_conns_median": null,
+      "errors": [
+        "Page.goto: Timeout 30000ms exceeded.",
+        "watchdog: killed after 90 s"
+      ]
+    }
+  }
+}

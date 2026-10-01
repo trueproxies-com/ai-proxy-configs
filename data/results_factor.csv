@@ -1,0 +1,21 @@
+url,type,config,status,ok,partial,bytes,tokens,ms,peak_conns,error
+https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia,news,C,200,True,True,649277,990,30242,,Page.goto: Timeout 30000ms exceeded.
+https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761,news,C,200,True,False,1008156,1725,15666,,
+https://www.abc.net.au/news/2026-10-01/how-flydubai-flight-fz1073-plunge-unfolded/107215048,news,C,200,True,True,4255113,1014,30265,,Page.goto: Timeout 30000ms exceeded.
+https://www.euronews.com/2026/10/01/japans-sanae-takaichi-announces-new-tightened-measures-for-foreigners-seeking-permanent-re,news,C,200,True,False,2296092,609,19613,,
+https://www.cnbc.com/2023/05/11/market-strategist-survey-forecast.html,news,C,200,True,False,2678112,1873,12737,,
+https://docs.python.org/3/tutorial/introduction.html,docs,C,503,False,False,297,14,1721,,
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction,docs,C,200,True,False,483975,1766,3940,,
+https://docs.djangoproject.com/en/5.1/intro/tutorial01/,docs,C,200,True,False,602323,2139,3404,,
+https://nodejs.org/api/http.html,docs,C,200,False,True,59057,0,30383,,Page.goto: Timeout 30000ms exceeded.
+https://kubernetes.io/docs/concepts/overview/,docs,C,200,True,False,929229,1814,6600,,
+https://docs.docker.com/get-started/,docs,C,200,True,True,1364433,116,30461,,Page.goto: Timeout 30000ms exceeded.
+https://go.dev/doc/effective_go,docs,C,0,False,False,0,0,90116,,watchdog: killed after 90 s
+https://doc.rust-lang.org/book/ch01-01-installation.html,docs,C,200,True,False,351814,1189,1653,,
+https://www.postgresql.org/docs/current/tutorial-start.html,docs,C,200,True,False,507198,40,8537,,
+https://redis.io/docs/latest/develop/get-started/,docs,C,200,True,False,2126081,124,20628,,
+https://www.ikea.com/us/en/p/billy-bookcase-white-20522046/,product,C,200,True,True,3693194,1633,30365,,Page.goto: Timeout 30000ms exceeded.
+https://store.steampowered.com/app/3393110/AION_2/,product,C,200,True,False,2606201,66,7044,,
+https://www.newegg.com/sapphire-tech-pulse-11350-03-20g-radeon-rx-9060-xt-16gb-graphics-card-double-fans/p/N82E16814202457,product,C,307,False,True,710220,163,30249,,Page.goto: Timeout 30000ms exceeded.
+https://www.apple.com/shop/buy-iphone/iphone-duo,product,C,200,True,True,6470546,1692,30401,,Page.goto: Timeout 30000ms exceeded.
+https://www.samsung.com/us/smartphones/galaxy-z-fold8/buy/,product,C,0,False,True,0,0,30279,,Page.goto: Timeout 30000ms exceeded.

@@ -1,0 +1,32 @@
+{
+  "test_date": "2026-10-01",
+  "versions": {
+    "httpx": "0.28.1",
+    "playwright": "1.63.0",
+    "trafilatura": "2.2.0",
+    "tiktoken": "0.14.0",
+    "mode": "proxy",
+    "watchdog_s": 90,
+    "chromium": "153.0.8010.12"
+  },
+  "configs": {
+    "C": {
+      "n": 20,
+      "ok": 15,
+      "complete": 10,
+      "partial": 5,
+      "success_rate": 0.75,
+      "median_bytes": 1364433,
+      "p75_bytes": 2606201,
+      "median_mb": 1.364,
+      "median_tokens": 1189,
+      "median_ms": 15666,
+      "peak_conns_max": null,
+      "peak_conns_median": null,
+      "errors": [
+        "Page.goto: Timeout 30000ms exceeded.",
+        "watchdog: killed after 90 s"
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "TEST_DATE": "2026-10-01",
+  "SAMPLE_SIZE": 50,
+  "VERSION_PLAYWRIGHT": "1.63.0",
+  "CHROMIUM": "153.0.8010.12",
+  "TOKENS_PER_PAGE": 990,
+  "MB_HTML": "0.072",
+  "MB_BLOCKED": "0.934",
+  "MB_FULL": "2.284",
+  "BILLED_FACTOR": "1.381",
+  "SPREAD_FULL_VS_HTML": "31.7",
+  "BLOCKED_SAVINGS_PCT": "59",
+  "COST_1M_HTML_1000GB": "$0.06",
+  "COST_1M_FULL_1000GB": "$1.87",
+  "PEAK_CONN_FULL": 22,
+  "PEAK_CONN_BLOCKED": 26,
+  "AGENTS_PER_ACCOUNT_FULL": 136,
+  "AGENTS_PER_ACCOUNT_BLOCKED": 115,
+  "SUCCESS": {
+    "A": 0.94,
+    "B": 0.82,
+    "C": 0.78
+  },
+  "PARTIAL": {
+    "A": 0,
+    "B": 9,
+    "C": 14
+  },
+  "MEDIAN_MS": {
+    "A": 2109,
+    "B": 15258,
+    "C": 19565
+  },
+  "ERRORS": {
+    "A": [],
+    "B": [
+      "Page.goto: Timeout 30000ms exceeded."
+    ],
+    "C": [
+      "Page.goto: Timeout 30000ms exceeded.",
+      "watchdog: killed after 90 s"
+    ]
+  }
+}
